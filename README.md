@@ -1,4 +1,3 @@
-# complete--Exercies
 # Complete Exercises
 
 This repository contains all 10 programming exercises. Click the links below to view the code for each exercise.
